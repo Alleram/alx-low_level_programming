@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Main - My first C program that prints using a puts function
+ * main - My first C program that prints using a puts function
  *
  * Return: If it returns a zero then its a success
  */
