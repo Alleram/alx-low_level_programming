@@ -1,1 +1,1 @@
-PROJECT: More Stingly Linked Lists
+PROJECT - STINGLY LINKED LISTS (MORE)
